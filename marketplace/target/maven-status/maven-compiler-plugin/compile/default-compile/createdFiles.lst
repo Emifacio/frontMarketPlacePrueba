@@ -1,0 +1,12 @@
+com\nico\marketplace\services\ArticuloServiceImpl.class
+com\nico\marketplace\controllers\CategoriaController.class
+com\nico\marketplace\services\CategoriaServiceImpl.class
+com\nico\marketplace\models\entities\Usuario.class
+com\nico\marketplace\models\entities\Categoria.class
+com\nico\marketplace\repositories\ArticuloRepository.class
+com\nico\marketplace\MarketplaceApplication.class
+com\nico\marketplace\repositories\CategoriaRepository.class
+com\nico\marketplace\services\ArticuloService.class
+com\nico\marketplace\controllers\ArticuloController.class
+com\nico\marketplace\models\entities\Articulo.class
+com\nico\marketplace\services\CategoriaService.class
